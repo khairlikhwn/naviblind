@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/naviblind/static/css/main.523f09c5.chunk.css",
+    "main.js": "/naviblind/static/js/main.ba813dbf.chunk.js",
+    "main.js.map": "/naviblind/static/js/main.ba813dbf.chunk.js.map",
+    "runtime-main.js": "/naviblind/static/js/runtime-main.add96069.js",
+    "runtime-main.js.map": "/naviblind/static/js/runtime-main.add96069.js.map",
+    "static/js/2.2c458268.chunk.js": "/naviblind/static/js/2.2c458268.chunk.js",
+    "static/js/2.2c458268.chunk.js.map": "/naviblind/static/js/2.2c458268.chunk.js.map",
+    "index.html": "/naviblind/index.html",
+    "precache-manifest.582cdae2ef3b725c2bf514b34f96cbf5.js": "/naviblind/precache-manifest.582cdae2ef3b725c2bf514b34f96cbf5.js",
+    "service-worker.js": "/naviblind/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/naviblind/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.2c458268.chunk.js.LICENSE.txt": "/naviblind/static/js/2.2c458268.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.add96069.js",
+    "static/js/2.2c458268.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.ba813dbf.chunk.js"
+  ]
+}
