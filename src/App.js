@@ -72,29 +72,35 @@ function App() {
             position: "absolute",
             marginLeft: "auto",
             marginRight: "auto",
+            top:0,
             left: 0,
             right: 0,
             textAlign: "center",
             zindex: 9,
-            width: 640,
-            height: 480,
+            width: 380,
+            height: 285,
           }}
         />
 
         <canvas
           ref={canvasRef}
           style={{
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
             position: "absolute",
             marginLeft: "auto",
             marginRight: "auto",
+            top:0,
             left: 0,
             right: 0,
             textAlign: "center",
             zindex: 8,
-            width: 640,
-            height: 480,
+            width: 380,
+            height: 285,
           }}
         />
+        <div id="text-container"></div>
       </header>
     </div>
   );

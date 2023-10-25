@@ -1,4 +1,5 @@
 {
+  "homepage": "https://khairlikhwn.github.io/naviblind",
   "name": "handpose",
   "version": "0.1.0",
   "private": true,
@@ -14,6 +15,8 @@
     "react-webcam": "^5.2.0"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",

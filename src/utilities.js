@@ -5,7 +5,7 @@ export const drawRect = (detections, ctx) =>{
         const text = prediction['class'];
 
         // Set styling
-        const color = '#' + Math.floor(Math.random()*16777215).toString(16);
+        const color = 'red'
         ctx.strokeStyle = color
         ctx.font = '18px Arial'
         ctx.fillStyle = color
@@ -15,6 +15,10 @@ export const drawRect = (detections, ctx) =>{
         ctx.fillText(text, x, y)
         ctx.rect(x, y, width, height)
         ctx.stroke()
+
+        //
+        let textContainer = document.getElementById("text-container")
+        textContainer.textContent = text
     })
 
 }
