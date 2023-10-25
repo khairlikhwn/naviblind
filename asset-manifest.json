@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/naviblind/static/css/main.523f09c5.chunk.css",
-    "main.js": "/naviblind/static/js/main.ba813dbf.chunk.js",
-    "main.js.map": "/naviblind/static/js/main.ba813dbf.chunk.js.map",
+    "main.css": "/naviblind/static/css/main.96ee5d93.chunk.css",
+    "main.js": "/naviblind/static/js/main.c4b89eb0.chunk.js",
+    "main.js.map": "/naviblind/static/js/main.c4b89eb0.chunk.js.map",
     "runtime-main.js": "/naviblind/static/js/runtime-main.add96069.js",
     "runtime-main.js.map": "/naviblind/static/js/runtime-main.add96069.js.map",
-    "static/js/2.2c458268.chunk.js": "/naviblind/static/js/2.2c458268.chunk.js",
-    "static/js/2.2c458268.chunk.js.map": "/naviblind/static/js/2.2c458268.chunk.js.map",
+    "static/js/2.12386ce8.chunk.js": "/naviblind/static/js/2.12386ce8.chunk.js",
+    "static/js/2.12386ce8.chunk.js.map": "/naviblind/static/js/2.12386ce8.chunk.js.map",
     "index.html": "/naviblind/index.html",
-    "precache-manifest.582cdae2ef3b725c2bf514b34f96cbf5.js": "/naviblind/precache-manifest.582cdae2ef3b725c2bf514b34f96cbf5.js",
+    "precache-manifest.c28e671d750ed35e0103a9ec73080574.js": "/naviblind/precache-manifest.c28e671d750ed35e0103a9ec73080574.js",
     "service-worker.js": "/naviblind/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/naviblind/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.2c458268.chunk.js.LICENSE.txt": "/naviblind/static/js/2.2c458268.chunk.js.LICENSE.txt"
+    "static/css/main.96ee5d93.chunk.css.map": "/naviblind/static/css/main.96ee5d93.chunk.css.map",
+    "static/js/2.12386ce8.chunk.js.LICENSE.txt": "/naviblind/static/js/2.12386ce8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.add96069.js",
-    "static/js/2.2c458268.chunk.js",
-    "static/css/main.523f09c5.chunk.css",
-    "static/js/main.ba813dbf.chunk.js"
+    "static/js/2.12386ce8.chunk.js",
+    "static/css/main.96ee5d93.chunk.css",
+    "static/js/main.c4b89eb0.chunk.js"
   ]
 }

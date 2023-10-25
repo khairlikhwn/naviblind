@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/naviblind/precache-manifest.582cdae2ef3b725c2bf514b34f96cbf5.js"
+  "/naviblind/precache-manifest.c28e671d750ed35e0103a9ec73080574.js"
 );
 
 self.addEventListener('message', (event) => {
