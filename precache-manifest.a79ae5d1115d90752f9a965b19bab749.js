@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "84f07c23454c9fee6696f2143673d9fa",
+    "revision": "a107f0a7b340273d8434a689eca69c8b",
     "url": "/naviblind/index.html"
   },
   {
-    "revision": "10bde80105ea90eaa60b",
+    "revision": "2f7e484db3ce4366326e",
     "url": "/naviblind/static/css/main.96ee5d93.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/naviblind/static/js/2.12386ce8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "10bde80105ea90eaa60b",
-    "url": "/naviblind/static/js/main.c4b89eb0.chunk.js"
+    "revision": "2f7e484db3ce4366326e",
+    "url": "/naviblind/static/js/main.ec81deef.chunk.js"
   },
   {
     "revision": "9000a3e5cd8e798ce9dd",
