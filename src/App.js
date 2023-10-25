@@ -50,9 +50,13 @@ function App() {
       // e.g. const obj = await net.detect(video);
       const obj = await net.detect(video);
       console.log(obj);
-
+      let textContainer = document.getElementById("text-container")
+      textContainer.textContent = "";
       // Draw mesh
       const ctx = canvasRef.current.getContext("2d");
+
+      //
+      
 
       // 5. TODO - Update drawing utility
       // drawSomething(obj, ctx)  

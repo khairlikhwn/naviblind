@@ -18,7 +18,8 @@ export const drawRect = (detections, ctx) =>{
 
         //
         let textContainer = document.getElementById("text-container")
-        textContainer.textContent = text
+        textContainer.textContent = prediction['class'];
+        
     })
 
 }
